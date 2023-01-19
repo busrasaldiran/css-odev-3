@@ -1,0 +1,86 @@
+/**Layout*/
+
+
+.container {
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+
+}
+.width{
+    width: 300px;
+}
+.container2 {text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+
+}
+.container3 {
+    
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+
+   
+    text-align: center;
+    background-color: #EEEEEE;
+    padding: 2px;
+    
+
+    
+
+}
+
+ .box2 {
+    background-color: #7EE5DA;
+    margin-top: 2px;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 450px;
+    
+
+ }
+
+.box3 {
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: 12px;
+padding: 7px;
+    margin-left: 2px;
+    margin-top: -16px;
+    float: left;
+    width: 200px;
+ 
+
+    
+
+    
+    
+}
+
+.box4 {
+    text-align: center;
+    background-color: #62B3AA;
+    float: left;
+    width: 510px;
+    padding: 0.5px;
+    margin-left: 2px;
+    margin-top: -33px;
+    font-size:12px ;
+ 
+}
+
+.box5 {
+    font-size: -10;
+    text-align: -webkit-center
+}
+
+
